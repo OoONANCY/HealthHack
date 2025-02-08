@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922207870098",
+    "project_id": "healthhack-6f142",
+    "storage_bucket": "healthhack-6f142.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922207870098:android:a6ba4d5ea76b18fb8d5a4b",
+        "android_client_info": {
+          "package_name": "com.nancy.team_info_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwvAW0YohQyTMxcYKdQeURMPLPqpX6OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
